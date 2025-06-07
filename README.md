@@ -115,6 +115,4 @@ Learning goals
 JSON-formatted structured recommendations
 🛠 Extending the Project
 Adding a Database
-The project currently uses in-memory storage but is designed for easy migration to PostgreSQL:
 
-If you have any questions, please reach out to your-email@example.com.
